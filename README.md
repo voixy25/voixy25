@@ -2,56 +2,48 @@
 
 # Hi, I'm Voixy25! 👋
 
-I'm a passionate Computer Science high school senior with a strong foundation in web and software development. I love creating clean, functional code and continuously learning new technologies in HTML, CSS, JavaScript, Java, and more. I'm excited to share my journey through projects, challenges, and collaboration in the tech community.
+I'm a Computer Science and Informatics student at the University of Ljubljana (UL FRI) with a strong foundation in software development, web technologies, and systems. I enjoy building clean, functional applications, exploring computer graphics and AI workflows, and continuously sharpening my problem-solving skills.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 **High School**: Computer Science, 4th Year  
-- 🔭 **Current Focus**: Expanding my skills in full-stack development and exploring innovative programming concepts.
-- 🌱 **Learning**: Advanced web technologies, algorithms, and application development.
-- 💬 **Ask Me About**: Web design, coding best practices, or my journey as a budding programmer.
+- 🎓 **Education**: BSc in Computer Science and Informatics @ UL FRI (University of Ljubljana)
+- 🔭 **Current Focus**: Algorithms & data structures, computer graphics, full-stack web development, and local AI tooling.
+- 🌱 **Currently Exploring**: Shader programming (WGSL/WebGPU), network security, and multi-agent developer workflows.
+- 💬 **Ask Me About**: Web development, Java/Python, computer graphics, or self-hosting setups.
 - 📫 **How to Reach Me**: [voixy4@gmail.com](mailto:voixy4@gmail.com)
-- ⚡ **Fun Fact**: I enjoy problem-solving challenges and coding competitions!
+- ⚡ **Fun Fact**: When I'm not coding or studying, you'll probably find me lifting weights, playing chess, or filming and color-grading gym vlogs.
 
 ---
 
 ## 🛠️ Languages and Tools
 
-### Programming Languages:
+### Programming & Query Languages:
 - **Java**
-- **HTML**  
-- **CSS**  
-- **JavaScript**  
-- **PHP**  
+- **Python**
+- **HTML / CSS / JavaScript & TypeScript**
+- **PHP**
+- **SQL & PLSQL**
 
 ### Tools & Technologies:
-- Git & GitHub  
-- VSCode & NetBeans IDE
-
----
-
-## 📈 GitHub Stats
-
-<!-- You can use your GitHub stats card to visually showcase your contributions -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=voixy25&show_icons=true&theme=radical)
-
-<!-- Optionally, include a top languages card -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voixy25&layout=compact&theme=radical)
+- Git & GitHub / GitHub Pages
+- Linux & macOS
+- VS Code, IntelliJ / NetBeans, & Obsidian
+- Docker & Self-Hosted Environments
 
 ---
 
 ## 🔗 Connect with Me
 
-- **Twitter:** [@DomenSkomina](https://twitter.com/DomenSkomina)
+- **Twitter / X:** [@DomenSkomina](https://twitter.com/DomenSkomina)
 - **Instagram:** [@domenskomina](https://instagram.com/domenskomina)  
 
 ---
 
 ## 💡 Projects & Collaboration
 
-I'm always on the lookout for exciting projects and collaboration opportunities. Feel free to check out my repositories or reach out if you'd like to work together on something innovative!
+I'm always open to interesting projects, freelance web work, and collaboration opportunities. Feel free to check out my repositories—such as [Vina Skomina](https://voixy25.github.io/VinaSkomina)—or reach out if you'd like to build something together!
 
 ---
 
